@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Madu 
 
-<!--
-**madufreitaas/madufreitaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Dados** com foco em FP&A, transformando dados financeiros em decisões estratégicas.
 
-Here are some ideas to get you started:
+Atuo desde 2022 em uma distribuidora de OPME, onde desenvolvo
+dashboards no Power BI, organizo pipelines de dados e apoio a gestão
+financeira com análises de receita, metas e inadimplência.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduanda em Engenharia Ambiental pela UFPB — base analítica sólida
+e visão sistêmica dos problemas.
+
+---
+
+### 👩🏻‍💻 Linguagens e Tecnologias
+
+Power BI · M · DAX | Power Automate | SQL | Python | Excel
+
+---
